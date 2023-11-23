@@ -635,4 +635,5 @@
             </array>
         </config-file>
     </platform>
+    <engine name="android" spec="~6.1.2" />
 </widget>
